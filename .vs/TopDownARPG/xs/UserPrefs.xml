@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{79CE8E48-0DA7-AD29-D28F-DA54B4E5303A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="53094aaf-83c8-4147-a0b4-0baaf5a2a9f9" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Characters/Enemy/EnemyController.cs">
+    <Files>
+      <File FileName="Assets/Characters/Player/PlayerController.cs" Line="140" Column="43" />
+      <File FileName="Assets/Characters/Player/Sword_Hitbox.cs" Line="35" Column="10" />
+      <File FileName="Assets/Characters/Enemy/EnemyController.cs" Line="23" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TopDownARPG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Characters" expanded="True">
+                <Node name="Enemy" expanded="True">
+                  <Node name="Slime" expanded="True" />
+                </Node>
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
